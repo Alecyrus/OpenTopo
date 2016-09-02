@@ -1,0 +1,3384 @@
+{
+    "routing": [
+        {
+            "router_name": "Router_1", 
+            "routes": [
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_2", 
+            "routes": [
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.1"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.3"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_3", 
+            "routes": [
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.2"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.4"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_4", 
+            "routes": [
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.21"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.22"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_5", 
+            "routes": [
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_6", 
+            "routes": [
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.5"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_7", 
+            "routes": [
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.6"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.8"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_8", 
+            "routes": [
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.7"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_9", 
+            "routes": [
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.8"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.23"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_10", 
+            "routes": [
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 9, 
+                    "nexthop": "10.0.100.9"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_11", 
+            "routes": [
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.10"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.18"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_12", 
+            "routes": [
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.11"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_13", 
+            "routes": [
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.12"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_14", 
+            "routes": [
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.13"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_15", 
+            "routes": [
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.14"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.26"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_16", 
+            "routes": [
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.17"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_17", 
+            "routes": [
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.16"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.18"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_18", 
+            "routes": [
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.17"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.11"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_19", 
+            "routes": [
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.20"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 5, 
+                    "nexthop": "10.0.100.18"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_20", 
+            "routes": [
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.3"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.19"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_21", 
+            "routes": [
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 7, 
+                    "nexthop": "10.0.100.4"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_22", 
+            "routes": [
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.21"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.4"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.23"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_23", 
+            "routes": [
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 10, 
+                    "nexthop": "10.0.100.9"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.22"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.24"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_24", 
+            "routes": [
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 4, 
+                    "nexthop": "10.0.100.23"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_25", 
+            "routes": [
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.26", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.26"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 6, 
+                    "nexthop": "10.0.100.13"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 2, 
+                    "nexthop": "10.0.100.24"
+                }
+            ]
+        }, 
+        {
+            "router_name": "Router_26", 
+            "routes": [
+                {
+                    "destination": "10.0.100.15", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.25", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.14", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.16", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.13", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.24", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.17", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.12", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.23", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.18", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.11", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.9", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.22", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.19", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.10", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.8", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.4", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.21", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.20", 
+                    "metric": 3, 
+                    "nexthop": "10.0.100.15"
+                }, 
+                {
+                    "destination": "10.0.100.7", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.3", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.5", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.6", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.2", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }, 
+                {
+                    "destination": "10.0.100.1", 
+                    "metric": 8, 
+                    "nexthop": "10.0.100.25"
+                }
+            ]
+        }
+    ]
+}

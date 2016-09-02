@@ -1,0 +1,13 @@
+{
+  "netowrk":5,
+  "network_name":[
+    "Management Network",
+    "Tunnel Network",
+    "Stroge Network",
+    "External Network",
+    "Private Neiwork"],
+  "connect":"1,2;2,3;3,4;4,5;5,3",
+  "connect_weigh":[2,2,5,3,7],
+  "network_ip":["202.102.9.0/24","202.102.3.0/24","202.102.2.0/24","202.102.1.0/24","202.102.7.0/24"]
+
+}

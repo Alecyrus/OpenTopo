@@ -1,0 +1,502 @@
+{
+    "categories": [
+        {
+            "name": "Router"
+        }, 
+        {
+            "name": "Network"
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 3
+        }, 
+        {
+            "source": 4, 
+            "target": 5
+        }, 
+        {
+            "source": 6, 
+            "target": 7
+        }, 
+        {
+            "source": 8, 
+            "target": 9
+        }, 
+        {
+            "source": 10, 
+            "target": 11
+        }, 
+        {
+            "source": 12, 
+            "target": 13
+        }, 
+        {
+            "source": 14, 
+            "target": 15
+        }, 
+        {
+            "source": 16, 
+            "target": 17
+        }, 
+        {
+            "source": 18, 
+            "target": 19
+        }, 
+        {
+            "source": 20, 
+            "target": 21
+        }, 
+        {
+            "source": 22, 
+            "target": 23
+        }, 
+        {
+            "source": 24, 
+            "target": 25
+        }, 
+        {
+            "source": 26, 
+            "target": 27
+        }, 
+        {
+            "source": 28, 
+            "target": 29
+        }, 
+        {
+            "source": 30, 
+            "target": 31
+        }, 
+        {
+            "source": 32, 
+            "target": 33
+        }, 
+        {
+            "source": 34, 
+            "target": 35
+        }, 
+        {
+            "source": 36, 
+            "target": 37
+        }, 
+        {
+            "source": 38, 
+            "target": 39
+        }, 
+        {
+            "source": 40, 
+            "target": 41
+        }, 
+        {
+            "source": 42, 
+            "target": 43
+        }, 
+        {
+            "source": 44, 
+            "target": 45
+        }, 
+        {
+            "source": 46, 
+            "target": 47
+        }, 
+        {
+            "source": 48, 
+            "target": 49
+        }, 
+        {
+            "source": 50, 
+            "target": 51
+        }, 
+        {
+            "source": 0, 
+            "target": 2
+        }, 
+        {
+            "source": 2, 
+            "target": 4
+        }, 
+        {
+            "source": 4, 
+            "target": 6
+        }, 
+        {
+            "source": 4, 
+            "target": 38
+        }, 
+        {
+            "source": 6, 
+            "target": 8
+        }, 
+        {
+            "source": 6, 
+            "target": 40
+        }, 
+        {
+            "source": 6, 
+            "target": 42
+        }, 
+        {
+            "source": 8, 
+            "target": 10
+        }, 
+        {
+            "source": 10, 
+            "target": 12
+        }, 
+        {
+            "source": 12, 
+            "target": 14
+        }, 
+        {
+            "source": 14, 
+            "target": 16
+        }, 
+        {
+            "source": 16, 
+            "target": 18
+        }, 
+        {
+            "source": 16, 
+            "target": 44
+        }, 
+        {
+            "source": 18, 
+            "target": 20
+        }, 
+        {
+            "source": 20, 
+            "target": 22
+        }, 
+        {
+            "source": 20, 
+            "target": 34
+        }, 
+        {
+            "source": 22, 
+            "target": 24
+        }, 
+        {
+            "source": 24, 
+            "target": 26
+        }, 
+        {
+            "source": 24, 
+            "target": 48
+        }, 
+        {
+            "source": 26, 
+            "target": 28
+        }, 
+        {
+            "source": 28, 
+            "target": 30
+        }, 
+        {
+            "source": 28, 
+            "target": 50
+        }, 
+        {
+            "source": 30, 
+            "target": 32
+        }, 
+        {
+            "source": 32, 
+            "target": 34
+        }, 
+        {
+            "source": 34, 
+            "target": 36
+        }, 
+        {
+            "source": 36, 
+            "target": 38
+        }, 
+        {
+            "source": 40, 
+            "target": 42
+        }, 
+        {
+            "source": 42, 
+            "target": 44
+        }, 
+        {
+            "source": 44, 
+            "target": 46
+        }, 
+        {
+            "source": 46, 
+            "target": 48
+        }, 
+        {
+            "source": 48, 
+            "target": 50
+        }
+    ], 
+    "nodes": [
+        {
+            "category": 0, 
+            "name": "Router-1", 
+            "value": "10.0.100.1"
+        }, 
+        {
+            "category": 1, 
+            "name": "A", 
+            "value": "202.102.1.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-2", 
+            "value": "10.0.100.2"
+        }, 
+        {
+            "category": 1, 
+            "name": "B", 
+            "value": "202.102.2.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-3", 
+            "value": "10.0.100.3"
+        }, 
+        {
+            "category": 1, 
+            "name": "C", 
+            "value": "202.102.3.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-4", 
+            "value": "10.0.100.4"
+        }, 
+        {
+            "category": 1, 
+            "name": "D", 
+            "value": "202.102.4.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-5", 
+            "value": "10.0.100.5"
+        }, 
+        {
+            "category": 1, 
+            "name": "E", 
+            "value": "202.102.5.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-6", 
+            "value": "10.0.100.6"
+        }, 
+        {
+            "category": 1, 
+            "name": "A1", 
+            "value": "202.102.6.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-7", 
+            "value": "10.0.100.7"
+        }, 
+        {
+            "category": 1, 
+            "name": "B1", 
+            "value": "202.102.7.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-8", 
+            "value": "10.0.100.8"
+        }, 
+        {
+            "category": 1, 
+            "name": "C1", 
+            "value": "202.102.8.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-9", 
+            "value": "10.0.100.9"
+        }, 
+        {
+            "category": 1, 
+            "name": "D1", 
+            "value": "202.102.9.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-10", 
+            "value": "10.0.100.10"
+        }, 
+        {
+            "category": 1, 
+            "name": "E1", 
+            "value": "202.102.10.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-11", 
+            "value": "10.0.100.11"
+        }, 
+        {
+            "category": 1, 
+            "name": "A2", 
+            "value": "202.102.11.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-12", 
+            "value": "10.0.100.12"
+        }, 
+        {
+            "category": 1, 
+            "name": "B2", 
+            "value": "202.102.12.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-13", 
+            "value": "10.0.100.13"
+        }, 
+        {
+            "category": 1, 
+            "name": "C2", 
+            "value": "202.102.13.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-14", 
+            "value": "10.0.100.14"
+        }, 
+        {
+            "category": 1, 
+            "name": "D2", 
+            "value": "202.102.14.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-15", 
+            "value": "10.0.100.15"
+        }, 
+        {
+            "category": 1, 
+            "name": "E2", 
+            "value": "202.102.15.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-16", 
+            "value": "10.0.100.16"
+        }, 
+        {
+            "category": 1, 
+            "name": "A3", 
+            "value": "202.102.16.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-17", 
+            "value": "10.0.100.17"
+        }, 
+        {
+            "category": 1, 
+            "name": "B3", 
+            "value": "202.102.17.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-18", 
+            "value": "10.0.100.18"
+        }, 
+        {
+            "category": 1, 
+            "name": "C3", 
+            "value": "202.102.18.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-19", 
+            "value": "10.0.100.19"
+        }, 
+        {
+            "category": 1, 
+            "name": "D3", 
+            "value": "202.102.19.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-20", 
+            "value": "10.0.100.20"
+        }, 
+        {
+            "category": 1, 
+            "name": "E3", 
+            "value": "202.102.20.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-21", 
+            "value": "10.0.100.21"
+        }, 
+        {
+            "category": 1, 
+            "name": "A4", 
+            "value": "202.102.21.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-22", 
+            "value": "10.0.100.22"
+        }, 
+        {
+            "category": 1, 
+            "name": "B4", 
+            "value": "202.102.22.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-23", 
+            "value": "10.0.100.23"
+        }, 
+        {
+            "category": 1, 
+            "name": "C4", 
+            "value": "202.102.23.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-24", 
+            "value": "10.0.100.24"
+        }, 
+        {
+            "category": 1, 
+            "name": "D4", 
+            "value": "202.102.24.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-25", 
+            "value": "10.0.100.25"
+        }, 
+        {
+            "category": 1, 
+            "name": "E4", 
+            "value": "202.102.25.0/24"
+        }, 
+        {
+            "category": 0, 
+            "name": "Router-26", 
+            "value": "10.0.100.26"
+        }, 
+        {
+            "category": 1, 
+            "name": "A5", 
+            "value": "202.102.26.0/24"
+        }
+    ]
+}
